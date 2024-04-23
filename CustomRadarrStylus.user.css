@@ -2,10 +2,10 @@
 @name           Gulletthost Sonarr
 @namespace      github.com/selene1123
 @version        1.0.0
-@description    UserStyle for my private Sonarr instance
+@description    UserStyle for my private Radarr instance
 @author         Jamie
 ==/UserStyle== */
-@-moz-document domain("https://sonarr.gulletthost.net/") {
+@-moz-document domain("https://radarr.gulletthost.net/") {
     :root {
         --main-bg-color: #303446;
 
